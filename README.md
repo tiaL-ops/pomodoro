@@ -18,7 +18,8 @@ Pomodoro is a time management technique designed to improve productivity and foc
 3. **Take a Break**: After the timer ends, enjoy a 5-minute break.
 4. **Repeat**: Continue the cycle for maximum productivity.
 
-Plan:
--To do list:
-Users can input tasks: display it, select, mark it as open/close
-Then go on pomodro technique to do a task . ( A chronomter)
+Use:
+Activiate Python environement
+source .venv/bin/activate
+
+install
